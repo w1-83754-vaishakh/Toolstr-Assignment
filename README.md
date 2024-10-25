@@ -2,9 +2,9 @@
 
  # Instructions to run the project
  
-Unzip the NestedCheckList file 
-open this code in Vs code application
-afterthat open treminal and give following commands
+ # Unzip the NestedCheckList file 
+# open this code in Vs code application
+# afterthat open treminal and give following commands
 
 1)Node module
 for added dependencies you have to give command npm i
